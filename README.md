@@ -2,9 +2,13 @@
 Aspiring Data Analyst from Azerbaijan 🇦🇿
 
 🔍 What I'm doing:
+
 🎓 Studying Finance at Azerbaijan State University of Economics (UNEC)
+
 🔧 Improving practical skills in: Excel | SQL | Python | Power BI  
+
 📊 Interested in: Data Scientist, Machine Learning
+
 
 📫 Let’s connect:
 
