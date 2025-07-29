@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi, I'm Zaur 👋  
+Aspiring Data Analyst from Azerbaijan 🇦🇿
 
-<!--
-**Zaur85/Zaur85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 What I'm doing:
+🎓 Studying Finance at Azerbaijan State University of Economics (UNEC)
+🔧 Improving practical skills in: Excel | SQL | Python | Power BI  
+📊 Interested in: Data Scientist, Machine Learning
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let’s connect:
+📧 Email: israfilovzaur1@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/zaur-israfilov-1524b925b
+📊 Kaggle: https://www.kaggle.com/zaursrafilov
